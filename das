@@ -7,3 +7,7 @@
             basedir="${dist.dir}" />
     </target> 
 </project>
+
+
+
+main --> propiedades ---> run--> ok
